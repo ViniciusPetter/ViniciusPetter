@@ -1,5 +1,5 @@
-<h1> Olá, me chamo Vinicius!<h1> 
-### Bem vindo ao meu perfil GitHub 👋
+<h1> Olá, me chamo Vinicius!</h1> 
+<h2>Bem vindo ao meu perfil GitHub 👋</h2>
 - 🎭 Desenvolvo atualmente por hobby
 - 📚 Estou cursando Engenharia de Software pela Universidade do Contestado - Concórdia - SC
 - 💻 Gosto de criar e desenvolver apps para web e jogos
