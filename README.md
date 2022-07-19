@@ -1,4 +1,5 @@
-- 👋 Prazer, sou Vinicius
+## Olá, me chamo Vinicius! 
+### Bem vindo ao meu perfil GitHub 👋
 - 🎭 Desenvolvo atualmente por hobby
 - 📚 Estou cursando Engenharia de Software pela Universidade do Contestado - Concórdia - SC
 - 💻 Gosto de criar e desenvolver apps para web e jogos
