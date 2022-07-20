@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 <h1 font-size=20> Olá<img height=40 src="https://user-images.githubusercontent.com/71847367/179869141-5620be95-544e-4de1-ab8f-a1a192ee5f9e.gif"/>, me chamo Vinicius!</h1>
 <h2>Bem vindo ao meu perfil!</h2>
 
