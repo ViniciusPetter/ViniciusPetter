@@ -11,7 +11,6 @@
 </ul>
 </br>
 <h2>📊 Meus Status:</h2>
-</br>
 <div>
 <a href="https://github.com/ViniciusPetter">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPetter&layout=compact&langs_count=7&theme=dracula"/>
