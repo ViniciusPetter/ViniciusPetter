@@ -1,5 +1,7 @@
 <h1 font-size=20> Olá<img height=40 src="https://user-images.githubusercontent.com/71847367/179869141-5620be95-544e-4de1-ab8f-a1a192ee5f9e.gif"/>, me chamo Vinicius!</h1>
 <h2>Bem vindo ao meu perfil!</h2>
+
+<img width=600 src="https://user-images.githubusercontent.com/71847367/179874766-337e13cf-ab00-4f87-89f0-8aa679e858ef.gif"/>
 </br>
 <h2>🙋🏻‍♂️ Sobre mim:</h2>
 <ul>
@@ -30,7 +32,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width=50 height=50/>
 </br>
 </br>
-<h2>🗨 Converse comigo:</h2>
+<h2>🗨 Meus Contatos:</h2>
 <div>
 <a href="https://www.instagram.com/vini_petter_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:viniciuspetterrenan17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
