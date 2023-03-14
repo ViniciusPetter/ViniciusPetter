@@ -6,7 +6,7 @@
 <h2>🙋🏻‍♂️ Sobre mim:</h2>
 <ul>
 <li>🌎 Moro em Concórdia-SC</li>
-<li>💼 Trabalho atualmente na Unifique Telecomunicações S.A.</li>
+<li>💼 Trabalho atualmente como Suporte de Sistemas na Coopercarga Logística.</li>
 <li>📚 Estou cursando Engenharia de Software pela Universidade do Contestado</li>
 <li>🎭 Desenvolvo atualmente por hobby</li>
 <li>💻 Gosto de criar e desenvolver apps para web e jogos</li>
